@@ -1,2 +1,34 @@
 D:\Documents\PSoC Creator\Workspace02\Labo_4.cydsn\TopDesign\TopDesign.cysch
+D:\PSoC Creator\4.4\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\GPIO_PDL_v1_0\GPIO_PDL_v1_0.cysym
+D:\PSoC Creator\4.4\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\GPIO_PDL_v1_0\GPIO_PDL_v1_0.cystate
+D:\PSoC Creator\4.4\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\GPIO_PDL_v1_0\GPIO_PDL_v1_0.cyprimitive
+D:\PSoC Creator\4.4\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\GPIO_PDL_v1_0\GPIO_PDL_v1_0.pdf
+D:\PSoC Creator\4.4\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\GPIO_PDL_v1_0\GPIO_PDL_v1_0.ctl
+D:\PSoC Creator\4.4\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\GPIO_PDL_v1_0\version.cypatch
+D:\PSoC Creator\4.4\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\GPIO_PDL_v1_0
+D:\PSoC Creator\4.4\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\GPIO_PDL_v1_0\Custom\custom.cs
+D:\PSoC Creator\4.4\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\GPIO_PDL_v1_0\Custom\cyenums.cs
+D:\PSoC Creator\4.4\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\GPIO_PDL_v1_0\Custom\cypinsdata.cs
+D:\PSoC Creator\4.4\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\GPIO_PDL_v1_0\Custom\cypinpicture.cs
+D:\PSoC Creator\4.4\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\GPIO_PDL_v1_0\Custom\cypinutils.cs
+D:\PSoC Creator\4.4\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\GPIO_PDL_v1_0\Custom\cygeneralcontrol.cs
+D:\PSoC Creator\4.4\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\GPIO_PDL_v1_0\Custom\cygeneralcontrol.Designer.cs
+D:\PSoC Creator\4.4\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\GPIO_PDL_v1_0\Custom\cyinputcontrol.cs
+D:\PSoC Creator\4.4\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\GPIO_PDL_v1_0\Custom\cyinputcontrol.Designer.cs
+D:\PSoC Creator\4.4\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\GPIO_PDL_v1_0\Custom\cyoutputcontrol.cs
+D:\PSoC Creator\4.4\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\GPIO_PDL_v1_0\Custom\cyoutputcontrol.Designer.cs
+D:\PSoC Creator\4.4\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\GPIO_PDL_v1_0\Custom\cypinaliasdialog.cs
+D:\PSoC Creator\4.4\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\GPIO_PDL_v1_0\Custom\cypinaliasdialog.Designer.cs
+D:\PSoC Creator\4.4\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\GPIO_PDL_v1_0\Custom\cypinscontrol.cs
+D:\PSoC Creator\4.4\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\GPIO_PDL_v1_0\Custom\cypinscontrol.Designer.cs
+D:\PSoC Creator\4.4\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\GPIO_PDL_v1_0\Custom\Resource1.Designer.cs
+D:\PSoC Creator\4.4\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\GPIO_PDL_v1_0\Custom\CyPinCache.cs
+D:\PSoC Creator\4.4\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\GPIO_PDL_v1_0\Custom\cyformals.cs
+D:\PSoC Creator\4.4\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\GPIO_PDL_v1_0\Custom\cydevicesupport.cs
+D:\PSoC Creator\4.4\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\GPIO_PDL_v1_0\Custom\cygeneralcontrol.resx
+D:\PSoC Creator\4.4\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\GPIO_PDL_v1_0\Custom\cyinputcontrol.resx
+D:\PSoC Creator\4.4\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\GPIO_PDL_v1_0\Custom\cyoutputcontrol.resx
+D:\PSoC Creator\4.4\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\GPIO_PDL_v1_0\Custom\cypinaliasdialog.resx
+D:\PSoC Creator\4.4\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\GPIO_PDL_v1_0\Custom\cypinscontrol.resx
+D:\PSoC Creator\4.4\PSoC Creator\psoc\content\CyPrimitives\cyprimitives.cylib\GPIO_PDL_v1_0\Custom\Resource1.resx
 D:\Documents\PSoC Creator\Workspace02\Labo_4.cydsn\Labo_4.cydwr
