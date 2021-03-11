@@ -19,5 +19,22 @@
 
 #include "sysint/cy_sysint.h"
 
+/* ARM CM0+ */
+#if (((__CORTEX_M == 0) && (CY_CORE_ID == 0)))
+    #define bouton_isr__INTC_ASSIGNED 1u
+    extern const cy_stc_sysint_t bouton_isr_cfg;
+
+#endif /* ((__CORTEX_M == 0) && (CY_CORE_ID == 0)) */
+
+/* ARM CM4 */
+#if (((__CORTEX_M == 4) && (CY_CORE_ID == 0)))
+    #define bouton_isr__INTC_ASSIGNED 1u
+    extern const cy_stc_sysint_t bouton_isr_cfg;
+
+    #define UART_SCB_IRQ__INTC_ASSIGNED 1u
+    extern const cy_stc_sysint_t UART_SCB_IRQ_cfg;
+
+#endif /* ((__CORTEX_M == 4) && (CY_CORE_ID == 0)) */
+
 
 #endif /* INCLUDED_CYFITTER_SYSINT_CFG_H */
