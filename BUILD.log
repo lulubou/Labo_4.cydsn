@@ -1,4 +1,4 @@
---------------- Build Started: 03/10/2021 20:56:40 Project: Labo_4, Configuration: ARM GCC 5.4-2016-q2-update Debug ---------------
+--------------- Build Started: 03/17/2021 17:29:23 Project: Labo_4, Configuration: ARM GCC 5.4-2016-q2-update Debug ---------------
 The code generation step is up to date.
 The compile step is up to date, no work needs to be done.
 The link step is up to date, no work needs to be done.
@@ -17,5 +17,5 @@ D:\PDL\3.1.3\tools\win\elf\cymcuelftool.exe --merge "D:\Documents\PSoC Creator\W
 Application checksum calculated and stored in ELF section .cychecksum
 Checksum calculated and stored in ELF section .cymeta
 D:\PDL\3.1.3\tools\win\elf\cymcuelftool.exe -A "D:\Documents\PSoC Creator\Workspace02\Labo_4.cydsn\CortexM4\ARM_GCC_541\Debug\Labo_4.elf"
-code:25492	sram:12912
---------------- Build Succeeded: 03/10/2021 20:56:59 ---------------
+code:25776	sram:12984
+--------------- Build Succeeded: 03/17/2021 17:29:49 ---------------
